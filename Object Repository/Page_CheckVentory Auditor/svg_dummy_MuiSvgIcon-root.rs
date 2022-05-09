@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_dummy_MuiSvgIcon-root</name>
+   <tag></tag>
+   <elementGuidId>f01dd8f2-c7d3-4b3b-8edc-53a4fee864b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='dummy'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiInputAdornment-root.MuiInputAdornment-positionEnd > svg.MuiSvgIcon-root</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>7e0a91b2-09fc-4d3e-9c7f-08c5219fe5d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiSvgIcon-root</value>
+      <webElementGuid>a1042cb5-460f-4516-9ff9-5d88332c08b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>a2693d02-54c6-4ad2-a04f-2d7435749ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>e3ebf640-5476-4303-b814-9f75d92c394b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>ca654047-1124-49b6-a4f6-bd544b5d8588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/div[@class=&quot;makeStyles-root-2557&quot;]/div[@class=&quot;makeStyles-main-2555&quot;]/div[@class=&quot;makeStyles-content-2554&quot;]/div[@class=&quot;makeStyles-container-2586&quot;]/div[@class=&quot;MuiGrid-root makeStyles-fullHeight-2590 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root makeStyles-content-2589 MuiGrid-item MuiGrid-grid-xs-4&quot;]/form[1]/div[@class=&quot;MuiFormControl-root MuiFormControl-marginNormal MuiFormControl-fullWidth&quot;]/div[@class=&quot;MuiFormControl-root MuiTextField-root&quot;]/div[@class=&quot;MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl MuiInputBase-adornedEnd&quot;]/div[@class=&quot;MuiInputAdornment-root MuiInputAdornment-positionEnd&quot;]/svg[@class=&quot;MuiSvgIcon-root&quot;]</value>
+      <webElementGuid>8904915d-2b4d-4a3f-9f6a-590455d4c65e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dummy'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>e48ae6ad-9b99-4d64-96a8-a1664d337096</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permissions'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>07243592-387f-4e48-b92c-16538c7a85d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>dec29212-f8af-40b0-b191-c5c22cabae81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/preceding::*[name()='svg'][2]</value>
+      <webElementGuid>49be53c3-6054-4208-9fdb-497e36c0517e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

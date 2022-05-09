@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Audit Details</name>
+   <tag></tag>
+   <elementGuidId>7e4d565b-7179-4fe8-8d48-dc100e489614</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='simple-tab-1']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#simple-tab-1 > span.MuiTab-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e9b83d54-180e-4ab5-8c29-c34ec2ecef9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTab-wrapper</value>
+      <webElementGuid>0ef40fd0-14f0-46eb-8326-1afaf95a8fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Audit Details</value>
+      <webElementGuid>b6ba1f92-df11-4544-86fd-237516851160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;simple-tab-1&quot;)/span[@class=&quot;MuiTab-wrapper&quot;]</value>
+      <webElementGuid>71753776-4e08-471b-8f08-414d786869d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='simple-tab-1']/span</value>
+      <webElementGuid>7f02a323-d1d3-4a21-a8c5-aa1e19ea47f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audit Overview'])[1]/following::span[2]</value>
+      <webElementGuid>8c29a594-a29c-4bca-be46-3b887bf608a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='System'])[1]/following::span[4]</value>
+      <webElementGuid>00514022-a62c-49d3-b15d-87c08183f260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Org Orientation'])[1]/preceding::span[4]</value>
+      <webElementGuid>598e29e9-6c16-45bc-bf6e-c2f537681b9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'simple-tab-1', '&quot;', ')/span[@class=', '&quot;', 'MuiTab-wrapper', '&quot;', ']')])[1]/preceding::span[7]</value>
+      <webElementGuid>9583ab65-4baf-4d13-a710-1e6daaf62f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Audit Details']/parent::*</value>
+      <webElementGuid>290d1413-3bf6-4b6c-a126-99ae7cacc339</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>cedb1b38-28d6-4d78-b2d7-fa31400d84ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Audit Details' or . = 'Audit Details')]</value>
+      <webElementGuid>475289ef-18d3-43aa-98c2-71d1d228bb44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

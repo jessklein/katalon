@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_EmailFirst nameSurnameDisplay namePermi_7736a7</name>
+   <tag></tag>
+   <elementGuidId>a870fd35-84df-4fa9-93de-9574fa140988</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-root']/div/div[2]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiGrid-root.makeStyles-content-2695.MuiGrid-item.MuiGrid-grid-xs-4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dc37bcc8-a950-4215-b527-691d44d56fbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiGrid-root makeStyles-content-2695 MuiGrid-item MuiGrid-grid-xs-4</value>
+      <webElementGuid>1209a132-2743-43ff-b787-7fd5daca0945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EmailFirst nameSurnameDisplay namePermissionsAdmin, API, Auditor, Controller, ServiceSelected — 5/5Save</value>
+      <webElementGuid>4b566ce8-7f4e-40a1-8ac1-0be989a34779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/div[@class=&quot;makeStyles-root-2638&quot;]/div[@class=&quot;makeStyles-main-2636&quot;]/div[@class=&quot;makeStyles-content-2635&quot;]/div[@class=&quot;makeStyles-container-2667&quot;]/div[@class=&quot;MuiGrid-root makeStyles-fullHeight-2696 MuiGrid-container&quot;]/div[@class=&quot;MuiGrid-root makeStyles-content-2695 MuiGrid-item MuiGrid-grid-xs-4&quot;]</value>
+      <webElementGuid>26d5317d-d279-45ad-a469-f4f40f412b1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-root']/div/div[2]/div/div/div/div</value>
+      <webElementGuid>79e0b048-d849-4f90-8f45-b0a59d42eabc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::div[3]</value>
+      <webElementGuid>c7b5b212-c0d9-4e05-8312-f6e1cdf98430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Locations'])[1]/following::div[3]</value>
+      <webElementGuid>01704bea-bf16-4e1f-8ccc-4d09517c0977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div</value>
+      <webElementGuid>eab30a95-459c-488f-be09-c4d652da7ae6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'EmailFirst nameSurnameDisplay namePermissionsAdmin, API, Auditor, Controller, ServiceSelected — 5/5Save' or . = 'EmailFirst nameSurnameDisplay namePermissionsAdmin, API, Auditor, Controller, ServiceSelected — 5/5Save')]</value>
+      <webElementGuid>7085c387-70c1-4a1e-ac12-66120cf8f546</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Org Orientation</name>
+   <tag></tag>
+   <elementGuidId>63965a66-739e-4f8a-a1b8-64ceb691ccef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='simple-tab-2']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#simple-tab-2 > span.MuiTab-wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c2d9b29a-3113-4985-9fe1-5ee5be9f0dd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiTab-wrapper</value>
+      <webElementGuid>07c371e6-736a-41d8-93c3-6c138fd74b5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Org Orientation</value>
+      <webElementGuid>45a0ae36-7bb0-41c8-a707-f03646dae9aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;simple-tab-2&quot;)/span[@class=&quot;MuiTab-wrapper&quot;]</value>
+      <webElementGuid>1f179584-cce1-4573-a431-6d1326c802f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='simple-tab-2']/span</value>
+      <webElementGuid>2d261dba-4aaf-4daa-82d5-95d5fdbce661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audit Details'])[1]/following::span[2]</value>
+      <webElementGuid>14b8e150-4508-44d2-ae84-d881d42b07db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audit Overview'])[1]/following::span[4]</value>
+      <webElementGuid>6f8936fe-cfc1-4f7e-96d6-f7391f60941e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'simple-tab-2', '&quot;', ')/span[@class=', '&quot;', 'MuiTab-wrapper', '&quot;', ']')])[1]/preceding::span[5]</value>
+      <webElementGuid>e5f8780b-4f98-406b-87f7-7e22619735b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Org Orientation']/parent::*</value>
+      <webElementGuid>4207ac9b-9deb-40b5-89cf-890c14334233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/span</value>
+      <webElementGuid>e942190a-db51-4951-830e-b3825c8b6331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Org Orientation' or . = 'Org Orientation')]</value>
+      <webElementGuid>5aac9df4-b020-4414-8321-86b67563b648</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Audits</name>
+   <tag></tag>
+   <elementGuidId>0f7d5d35-1a50-43f0-8661-9738e2425fc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app-root']/div/div/div/div[3]/div[2]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.makeStyles-root-508.makeStyles-root-509</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d929e86c-e088-4efd-bd17-2424b6f08f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>makeStyles-root-508 makeStyles-root-509</value>
+      <webElementGuid>7a10d27b-b202-462d-bcce-87503e8d5919</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Audits</value>
+      <webElementGuid>e37bb89b-5725-4e36-8fea-4be6b2d14f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-root&quot;)/div[@class=&quot;makeStyles-root-489&quot;]/div[@class=&quot;MuiDrawer-root MuiDrawer-docked makeStyles-drawer-502&quot;]/div[@class=&quot;MuiPaper-root MuiDrawer-paper makeStyles-drawerPaper-504 MuiDrawer-paperAnchorLeft MuiDrawer-paperAnchorDockedLeft MuiPaper-elevation0&quot;]/div[@class=&quot;MuiButtonBase-root MuiListItem-root makeStyles-listItem-505 MuiListItem-gutters MuiListItem-button&quot;]/div[@class=&quot;MuiListItemText-root&quot;]/span[@class=&quot;MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-colorInherit MuiTypography-displayBlock&quot;]/span[@class=&quot;makeStyles-root-508 makeStyles-root-509&quot;]</value>
+      <webElementGuid>0517bbab-ce1a-4ec5-8856-f50afef60435</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app-root']/div/div/div/div[3]/div[2]/span/span</value>
+      <webElementGuid>8d88a5a1-1027-4f47-ab7f-b7e09cb9d816</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::span[3]</value>
+      <webElementGuid>5fe6e4f4-c524-4b7e-b7b7-ba7ec62a9ba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dennis'])[1]/following::span[6]</value>
+      <webElementGuid>08bb23e0-f9cf-45c6-a9d1-85dbafdc016f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::span[4]</value>
+      <webElementGuid>78b5e541-bbe1-418a-b580-242e8aa7c72d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assets'])[1]/preceding::span[7]</value>
+      <webElementGuid>1eb808ce-75db-4689-a398-a4bf7ff39d25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Audits']/parent::*</value>
+      <webElementGuid>12038aed-bc1a-4a8f-91bf-cdc3cd52b989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/span/span</value>
+      <webElementGuid>5c847b8c-577f-495e-9bdf-4a4a8af2427c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Audits' or . = 'Audits')]</value>
+      <webElementGuid>6e9c9b0e-614d-4ff6-86f9-303c73f93d71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
