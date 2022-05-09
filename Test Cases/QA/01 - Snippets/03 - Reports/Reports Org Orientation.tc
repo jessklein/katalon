@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Reports</name>
+   <name>Reports Org Orientation</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>8394d480-239f-472e-a8d3-9be1bf589fc0</testCaseGuid>
+   <testCaseGuid>1e43d96e-a8f7-49ae-9fec-0325f6ebddeb</testCaseGuid>
 </TestCaseEntity>
