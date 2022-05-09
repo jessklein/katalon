@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>System</name>
+   <name>System Branches</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>63dcdf3c-1ace-433c-812c-7eb9e36628ce</testCaseGuid>
+   <testCaseGuid>6d65803f-53f8-4db8-bd87-1e2b9d04fdde</testCaseGuid>
 </TestCaseEntity>

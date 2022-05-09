@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>System</name>
+   <name>System Locations</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>63dcdf3c-1ace-433c-812c-7eb9e36628ce</testCaseGuid>
+   <testCaseGuid>76b0d607-af9d-4cd5-b1cc-7dbbebd9d459</testCaseGuid>
 </TestCaseEntity>
