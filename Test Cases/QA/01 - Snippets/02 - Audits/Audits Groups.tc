@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Audits</name>
+   <name>Audits Groups</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>01b09217-2566-4d1a-a133-5269da2dd11e</testCaseGuid>
+   <testCaseGuid>e94a49a8-bfea-4b87-a265-d14294022bb5</testCaseGuid>
 </TestCaseEntity>
