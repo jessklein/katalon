@@ -1,1 +1,8 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataCheck</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f233a93e-295d-47c1-99ad-fecd11fc9d28</testCaseGuid>
+</TestCaseEntity>
